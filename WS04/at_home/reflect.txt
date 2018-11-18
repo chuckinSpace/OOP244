@@ -1,0 +1,5 @@
+1 is a variable that has been initialize to a null or empty value, instead of a garbage value that can lead to error, another way to initialice will be nullptr.
+2 Calling function indie of other function so i dont rite the same code twice or more.
+3 Because we provide it with the address of the object and is a const function .
+4 The size of the string that is receiving the data be 
+5 How to Access private members, reduce code, safe empty states, and  nullptrs

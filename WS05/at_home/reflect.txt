@@ -1,0 +1,12 @@
+1 we don want to change the actual values of the variabe, justt diplay result of operations, so we dont pass the reference, just a copy.
+
+2 all those that use the overloaded operateors, operator+ operator== operator* operator != operator/
+
+3 by using overloaded operator on opration for the objects, and by calling reduce() from the contructors so we always work with simplified fractions 
+
+4 how to overload operators
+
+quiz 4 reflection
+
+what is the difference between a C++ class and a C++ Object
+a C++ class is a data type, a C++ object is an instance of a class

@@ -1,0 +1,3 @@
+1 in a well designed program a self assigning case should not allow the code to run
+2 set empty function, to empty state when needed. Nvalid to check for validity, get  rea, country and number code in functions.
+3 more on creting separate fucntion for differents task, and more in memory allocation and delete [] statement
