@@ -1,0 +1,28 @@
+Script started on Tue 10 Apr 2018 12:50:45 PM EDT
+cmoyano-rugiero@matrix:~/cmoyano-rugiero/oop244/project/MS04> ms4
+Linear: one two 
+As is: 
+one
+two
+
+Enter the following: 
+three<ENTER>
+four<ENTER>
+Ctrl^D<ENTER>
+
+three
+four
+one two three four 
+one
+two
+three
+four
+
+sku match
+Product < Perishable
+45|32|131|32
+113.5
+cmoyano-rugiero@matrix:~/cmoyano-rugiero/oop244/project/MS04> exit
+exit
+
+Script done on Tue 10 Apr 2018 12:50:57 PM EDT

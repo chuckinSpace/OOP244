@@ -1,0 +1,10 @@
+
+In line number 55 of your output:
+The output should be:
+ Sku: 1235
+But your output is: 
+ Sku: 1234^H5c^C
+         ^
+---------|
+Professor's character ASCII code: hex(35), dec(53)
+un-matched character ASCII code: hex(34), dec(52)
