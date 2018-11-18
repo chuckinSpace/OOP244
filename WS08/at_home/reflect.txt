@@ -1,0 +1,5 @@
+1 A concrete class is a class that is fully implemented and an abstract class is only definition, not implementations.
+
+2 credit() debit () monthend () display()
+
+3 how to shadow function, more on derived classes

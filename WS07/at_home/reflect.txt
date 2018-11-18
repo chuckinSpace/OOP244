@@ -1,0 +1,14 @@
+1 No
+2 Yes
+3 Ancient Battle
+4 first one TRUE second one FALSE
+
+quiz 5 
+Question 5
+Item& operator+(Item& rhs)
+
+Question 6.1
+Friend Item operator*(Item& lhs, Item& rhs)
+
+
+
