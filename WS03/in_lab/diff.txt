@@ -1,0 +1,10 @@
+
+In line number 18 of your output:
+The output should be:
+CRA Account: 193456787
+But your output is: 
+SIN: 193456787
+^
+|
+Professor's character ASCII code: hex(43), dec(67)
+un-matched character ASCII code: hex(53), dec(83)

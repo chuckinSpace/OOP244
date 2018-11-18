@@ -1,0 +1,8 @@
+Script started on Tue 20 Feb 2018 03:22:46 PM EST
+cmoyano-rugiero@matrix:~/cmoyano-rugiero/oop244/WS02> ls
+[0m[00m244_w2_lab_output.txt[0m  [00mKingdom.h[0m  [01;34mat_home[0m   [00merror.txt[0m   [00mw2_in_lab.cpp[0m
+[00mKingdom.cpp[0m            [00;32ma.out[0m      [00mdiff.txt[0m  [00moutput.txt[0m  [00;32mws[0m
+cmoyano-rugiero@matrix:~/cmoyano-rugiero/oop244/WS02> exi[2Pexit
+exit
+
+Script done on Tue 20 Feb 2018 03:23:01 PM EST

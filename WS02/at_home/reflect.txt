@@ -1,0 +1,4 @@
+1 the size of an array cannot be changed, so you need to create a new one, copy content and the delete the original.and that is like appending the content to the new array
+2  because delete is only for elemenst that were dynamicallu alocatted and in this case it was the pointer, not the array.
+3  because they have diferent parameters so only the funciton that maths with the sended parameter will be called
+4  how to change the size of an array that using dynamic memory.:X

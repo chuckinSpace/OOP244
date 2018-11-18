@@ -1,0 +1,67 @@
+1 is a created enviroment where some varables and functions are declared and used and its purpose is to allow the use os the same name for diferrent funciton or variables, so that way when different programmers are working in the same software those variables or functions with the same name cant get accesed.
+
+2 to organize our code in a better way keeping separates the definition from the declaation and mainteinin a coherence between the header file and its source file so we can find easily where is what, when creating larger pieces of softare.
+
+3 because it will create error, we dont suppose to compile header files, , they are included (by the include directive) in the source files.
+
+4 why why use separated files for declaration, and fucntions, and header files and source files, also what is a namespace1 is a created enviroment where some varables and functions are declared and used and its purpose is to allow the use os the same name for diferrent funciton or variables, so that way when different programmers are working in the same software those variables or functions with the same name cant get accesed.
+
+2 to organize our code in a better way keeping separates the definition from the declaation and mainteinin a coherence between the header file and its source file so we can find easily where is what, when creating larger pieces of softare.
+
+3 because it will create error, we dont suppose to compile header files, , they are included (by the include directive) in the source files.
+
+4 why why use separated files for declaration, and fucntions, and header files and source files, also what is a namespace1 is a created enviroment where some varables and functions are declared and used and its purpose is to allow the use os the same name for diferrent funciton or variables, so that way when different programmers are working in the same software those variables or functions with the same name cant get accesed.
+
+2 to organize our code in a better way keeping separates the definition from the declaation and mainteinin a coherence between the header file and its source file so we can find easily where is what, when creating larger pieces of softare.
+
+3 because it will create error, we dont suppose to compile header files, , they are included (by the include directive) in the source files.
+
+4 why why use separated files for declaration, and fucntions, and header files and source files, also what is a namespace1 is a created enviroment where some varables and functions are declared and used and its purpose is to allow the use os the same name for diferrent funciton or variables, so that way when different programmers are working in the same software those variables or functions with the same name cant get accesed.
+
+2 to organize our code in a better way keeping separates the definition from the declaation and mainteinin a coherence between the header file and its source file so we can find easily where is what, when creating larger pieces of softare.
+
+3 because it will create error, we dont suppose to compile header files, , they are included (by the include directive) in the source files.
+
+4 why why use separated files for declaration, and fucntions, and header files and source files, also what is a namespace1 is a created enviroment where some varables and functions are declared and used and its purpose is to allow the use os the same name for diferrent funciton or variables, so that way when different programmers are working in the same software those variables or functions with the same name cant get accesed.
+
+2 to organize our code in a better way keeping separates the definition from the declaation and mainteinin a coherence between the header file and its source file so we can find easily where is what, when creating larger pieces of softare.
+
+3 because it will create error, we dont suppose to compile header files, , they are included (by the include directive) in the source files.
+
+4 why why use separated files for declaration, and fucntions, and header files and source files, also what is a namespace1 is a created enviroment where some varables and functions are declared and used and its purpose is to allow the use os the same name for diferrent funciton or variables, so that way when different programmers are working in the same software those variables or functions with the same name cant get accesed.
+
+2 to organize our code in a better way keeping separates the definition from the declaation and mainteinin a coherence between the header file and its source file so we can find easily where is what, when creating larger pieces of softare.
+
+3 because it will create error, we dont suppose to compile header files, , they are included (by the include directive) in the source files.
+
+4 why why use separated files for declaration, and fucntions, and header files and source files, also what is a namespace1 is a created enviroment where some varables and functions are declared and used and its purpose is to allow the use os the same name for diferrent funciton or variables, so that way when different programmers are working in the same software those variables or functions with the same name cant get accesed.
+
+2 to organize our code in a better way keeping separates the definition from the declaation and mainteinin a coherence between the header file and its source file so we can find easily where is what, when creating larger pieces of softare.
+
+3 because it will create error, we dont suppose to compile header files, , they are included (by the include directive) in the source files.
+
+4 why why use separated files for declaration, and fucntions, and header files and source files, also what is a namespace1 is a created enviroment where some varables and functions are declared and used and its purpose is to allow the use os the same name for diferrent funciton or variables, so that way when different programmers are working in the same software those variables or functions with the same name cant get accesed.
+
+2 to organize our code in a better way keeping separates the definition from the declaation and mainteinin a coherence between the header file and its source file so we can find easily where is what, when creating larger pieces of softare.
+
+3 because it will create error, we dont suppose to compile header files, , they are included (by the include directive) in the source files.
+
+4 why why use separated files for declaration, and fucntions, and header files and source files, also what is a namespace1 is a created enviroment where some varables and functions are declared and used and its purpose is to allow the use os the same name for diferrent funciton or variables, so that way when different programmers are working in the same software those variables or functions with the same name cant get accesed.
+
+2 to organize our code in a better way keeping separates the definition from the declaation and mainteinin a coherence between the header file and its source file so we can find easily where is what, when creating larger pieces of softare.
+
+3 because it will create error, we dont suppose to compile header files, , they are included (by the include directive) in the source files.
+
+4 why why use separated files for declaration, and fucntions, and header files and source files, also what is a namespace1 is a created enviroment where some varables and functions are declared and used and its purpose is to allow the use os the same name for diferrent funciton or variables, so that way when different programmers are working in the same software those variables or functions with the same name cant get accesed.
+
+2 to organize our code in a better way keeping separates the definition from the declaation and mainteinin a coherence between the header file and its source file so we can find easily where is what, when creating larger pieces of softare.
+
+3 because it will create error, we dont suppose to compile header files, , they are included (by the include directive) in the source files.
+
+4 why why use separated files for declaration, and fucntions, and header files and source files, also what is a namespace1 is a created enviroment where some varables and functions are declared and used and its purpose is to allow the use os the same name for diferrent funciton or variables, so that way when different programmers are working in the same software those variables or functions with the same name cant get accesed.
+
+2 to organize our code in a better way keeping separates the definition from the declaation and mainteinin a coherence between the header file and its source file so we can find easily where is what, when creating larger pieces of softare.
+
+3 because it will create error, we dont suppose to compile header files, , they are included (by the include directive) in the source files.
+
+4 why why use separated files for declaration, and fucntions, and header files and source files, also what is a namespace

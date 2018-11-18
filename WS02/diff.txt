@@ -1,0 +1,10 @@
+
+In line number 3 of your output:
+The output should be:
+==========
+But your output is: 
+[0m[00m244_w2_lab_output.txt[0m  [00mKingdom.h[0m  [01;34mat_home[0m   [00merror.txt[0m   [00mw2_in_lab.cpp[0m
+^
+|
+Professor's character ASCII code: hex(3d), dec(61)
+un-matched character ASCII code: hex(1b), dec(27)

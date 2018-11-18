@@ -1,0 +1,12 @@
+1 we use 41 element in this case but the important thing is taht we use the +1 to hold the null terminator 
+
+2 Function overloading
+
+3 How to declare a class, overload functions output functions.
+
+
+Quiz 1 reflection 
+
+Quiestion 2 
+Why we never compile a header file :
+The header file only have declaration and no definitions so is gonna be always just a part of the code, so the complier is not going to find the rest of the code. 
